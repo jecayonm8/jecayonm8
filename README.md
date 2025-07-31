@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Esteban
 
-<!--
-**jecayonm8/jecayonm8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Sistemas. Junior Developer**, habilidoso en Java, JavaScript y Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades
+- **Lenguajes**: Java · JavaScript · Python  
+- **Herramientas**: Git · GitHub · SQL · Maven  
+- **Aprendiendo**: React · Docker · Node.js  
+
+---
+
+## 🚀 Proyectos destacados
+- **ProyectoFinalMonederoVirtual** – simulador de monedero virtual en JavaScript (estructura de datos)  
+- **DeliveryColas / DeliveryFX** – sistema de colas de prioridad en Java  
+- **Clinica** – agendamiento de citas para una clínica en Java  
+- **ArbolBinarioFX** – estructura de árbol binario visual en Java  
+
+Ver más abajo 👇
+
+---
+
+## 📫 Contáctame
+- 📍 Colombia / Remoto  
+- 💼 LinkedIn | 📧 Correo: jecm0468@gmail.com
