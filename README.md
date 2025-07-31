@@ -22,4 +22,4 @@
 
 ## 📫 Contáctame
 - 📍 Colombia / Remoto  
-- 💼 LinkedIn | 📧 Correo: jecm0468@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-esteban-cayon-m-b42ab3377/| 📧 Correo: jecm0468@gmail.com
