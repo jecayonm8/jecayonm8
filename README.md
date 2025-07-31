@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Esteban
+# 👨‍💻 Hola, soy Juan Esteban
 
 **Estudiante de Ingeniería de Sistemas. Junior Developer**, habilidoso en Java, JavaScript y Python.
 
@@ -17,7 +17,6 @@
 - **Clinica** – agendamiento de citas para una clínica en Java  
 - **ArbolBinarioFX** – estructura de árbol binario visual en Java  
 
-Ver más abajo 👇
 
 ---
 
