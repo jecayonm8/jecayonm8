@@ -1,6 +1,6 @@
 # 👨‍💻 Hola, soy Juan Esteban
 
-**Estudiante de Ingeniería de Sistemas. Junior Developer**, habilidoso en Java, Python y aprendiendo JavaScript.
+**Estudiante de Ingeniería de Sistemas. habilidoso en Java, Python y aprendiendo JavaScript.
 
 ---
 
