@@ -13,8 +13,7 @@
 
 ## 🚀 Proyectos destacados
 - **ProyectoFinalMonederoVirtual** – simulador de monedero virtual en JavaScript (estructura de datos)  
-- **DeliveryColas / DeliveryFX** – sistema de colas de prioridad en Java  
-- **Clinica** – agendamiento de citas para una clínica en Java  
+- **DeliveryColas / DeliveryFX** – sistema de colas de prioridad en Java   
 - **ArbolBinarioFX** – estructura de árbol binario visual en Java  
 
 
